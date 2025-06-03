@@ -1,3 +1,4 @@
+//Create Database 
 use("OnlineEducation");
 db.createCollection("courses");
 db.courses.insertOne({
